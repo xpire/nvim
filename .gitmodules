@@ -1,0 +1,3 @@
+[submodule "site/pack/xpire/start/vim-airline"]
+	path = site/pack/xpire/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
